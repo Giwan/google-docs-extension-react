@@ -1,0 +1,9 @@
+{
+  "timeZone": "Europe/Amsterdam",
+  "dependencies": {
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.container.ui",
+    "https://www.googleapis.com/auth/documents"
+  ] 
+}
